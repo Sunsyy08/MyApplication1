@@ -21,7 +21,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             MyApplicationTheme {
-                RandomDiceApp()
+                //RandomDiceApp()
+                RandomColorApp()
             }
         }
     }
